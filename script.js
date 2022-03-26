@@ -1,7 +1,7 @@
 
 function addItem(){
 
-    console.log("hi");
+    console.log("hi Log");
     
     document.getElementById("demo").innerHTML = "Working, Please Wait";
   
